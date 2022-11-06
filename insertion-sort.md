@@ -13,3 +13,6 @@ O( $n^2$ )
 ---
 ## 4.
 Avarage case
+
+---
+[Patika.dev](https://www.patika.dev/tr) 
