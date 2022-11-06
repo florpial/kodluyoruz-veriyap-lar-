@@ -1,2 +1,12 @@
-# kodluyoruz-veriyap-lar-
-Veri Yapıları ve Algoritmalar dersi ödevleri
+# Veri Yapıları ve Algoritmalar Dersi Ödevleri:
+1.Insertion Sort Projesi
+2.Merge Sort Projesi
+3.Binary Search Tree Projesi
+
+
+[Patika.dev](www.patika.dev)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
